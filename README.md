@@ -20,7 +20,7 @@ Run the following code in your terminal to install the dependencies:
 ```python main.py```
 
 ## How to test the model
-- Run the following command in your terminal:
+Run the following command in your terminal:
 
 ```python test.py```
 
